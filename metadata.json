@@ -1,0 +1,8 @@
+{
+  "name": "AgentShield",
+  "description": "Autonomous AI Agent Runtime Security & Governance Platform. Zero-trust runtime gateway enforcing permissions, deterministic policies, prompt injection detection, DLP, risk scoring, human approvals, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
